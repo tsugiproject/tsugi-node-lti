@@ -1,0 +1,24 @@
+{
+  "name": "tsugi-node-lti",
+  "version": "0.0.3",
+  "description": "An LTI library in JavaScript for Node ",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csev/tsugi-node-lti.git"
+  },
+  "dependencies": {
+    "xml2js": "~0.4.0",
+    "xmlbuilder": "~2.4.0",
+    "node-uuid": "~1.4.0"
+  },
+  "author": "Dr. Charles R. Severance <drchuck@gmail.com> (http://www.dr-chuck.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/csev/tsugi-node-lti/issues"
+  },
+  "homepage": "https://github.com/csev/tsugi-node-lti#readme"
+}
