@@ -19,4 +19,6 @@ Release
 
     npm publish 
 
+    https://www.npmjs.com/package/tsugi-node-lti
+
 
