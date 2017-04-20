@@ -1,6 +1,6 @@
 
-Tsugi Node LTI Library in JavaScript
-====================================
+Tsugi Node LTI™ Library in JavaScript
+=====================================
 
 This starts as a conversion of the Owen Smith repo from CoffeeScript to JavaScript.
 
@@ -17,3 +17,5 @@ Release
     https://www.npmjs.com/package/tsugi-node-lti
 
 
+Learning Tools Interoperability™ (LTI™) is a trademark of IMS Global Learning Consortium, 
+Inc. in the United States and/or other countries.
