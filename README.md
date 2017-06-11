@@ -12,9 +12,24 @@ atop of this code.
 Release
 -------
 
-    npm publish 
+This code is released to
 
-    https://www.npmjs.com/package/tsugi-node-lti
+https://www.npmjs.com/package/tsugi-node-lti
+
+First set up your user:
+
+    $ npm adduser
+    Username: drchuck
+    Password: 
+    Email: (this IS public) csev@umich.edu
+    Logged in as drchuck on https://registry.npmjs.org/.
+
+Then edit the `version` in `package.json` since you can only 
+publish a particular version once.
+
+Then run:
+
+    npm publish 
 
 
 Learning Tools Interoperability™ (LTI™) is a trademark of IMS Global Learning Consortium, 
