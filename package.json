@@ -1,6 +1,6 @@
 {
   "name": "tsugi-node-lti",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "An LTI library in JavaScript for Node ",
   "main": "./lib",
   "scripts": {
