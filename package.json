@@ -1,6 +1,6 @@
 {
   "name": "tsugi-node-lti",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "An LTI library in JavaScript for Node ",
   "main": "./lib",
   "scripts": {
@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "xml2js": "~0.4.0",
-    "xmlbuilder": "~2.4.0",
-    "node-uuid": "~1.4.0"
+    "xmlbuilder": "~9.0.0",
+    "uuid": "~3.2.0"
   },
   "author": "Dr. Charles R. Severance <drchuck@gmail.com> (http://www.dr-chuck.com/)",
   "license": "Apache-2.0",
