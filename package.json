@@ -13,7 +13,8 @@
   "dependencies": {
     "xml2js": "~0.4.0",
     "xmlbuilder": "~9.0.0",
-    "uuid": "~3.2.0"
+    "uuid": "~3.2.0",
+    "nonce": "^1.0.4"
   },
   "author": "Dr. Charles R. Severance <drchuck@gmail.com> (http://www.dr-chuck.com/)",
   "license": "Apache-2.0",
